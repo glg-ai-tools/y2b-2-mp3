@@ -1,0 +1,4 @@
+__pycache__/
+*.webm
+*.mp3
+temp_audio_*

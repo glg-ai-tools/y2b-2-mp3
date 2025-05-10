@@ -1,0 +1,5 @@
+pytube
+pydub
+mutagen
+yt-dlp
+ffmpeg-python
